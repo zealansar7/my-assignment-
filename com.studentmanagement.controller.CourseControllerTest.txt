@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.studentmanagement.controller.CourseControllerTest
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.709 s -- in com.studentmanagement.controller.CourseControllerTest
